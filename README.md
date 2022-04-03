@@ -1,0 +1,2 @@
+- - 🌱 I’m currently learning testing and programming.
+-
